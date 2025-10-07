@@ -1,0 +1,27 @@
+
+    Rhea
+    Senior Data Scientist
+    rhea.1@email.com | 1122334455 | linkedin.com/in/rhea
+
+    SUMMARY:
+    Experienced Data Scientist with 5+ years in machine learning, NLP, and cloud technologies. 
+    Strong background in Python, TensorFlow, and AWS.
+
+    EXPERIENCE:
+    Senior Data Scientist - TechCorp (2020-Present)
+    - Led ML projects improving customer recommendations by 30%
+    - Developed NLP models for sentiment analysis
+    - Managed AWS infrastructure for ML pipelines
+
+    Data Scientist - DataWorks (2018-2020)
+    - Built predictive models using Python and Scikit-learn
+    - Implemented deep learning solutions with TensorFlow
+
+    SKILLS:
+    Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, NLP, 
+    AWS, SQL, Docker, Kubernetes, Git, Data Analysis
+
+    EDUCATION:
+    MS Computer Science - IIT
+    BS Mathematics - VIT
+    

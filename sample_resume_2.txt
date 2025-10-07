@@ -1,0 +1,36 @@
+Arjun Sharma
+Senior Machine Learning Engineer
+arjun.sharma@email.com | 9988776655 | linkedin.com/in/arjunsharma
+
+SUMMARY:
+Expert Machine Learning Engineer with 6+ years specializing in computer vision, deep learning, and MLOps. 
+Proven track record in deploying scalable AI solutions across healthcare and e-commerce domains.
+
+EXPERIENCE:
+Senior ML Engineer - HealthTech AI (2021-Present)
+- Led computer vision team developing diagnostic AI tools with 95% accuracy
+- Deployed real-time inference systems serving 10M+ monthly predictions
+- Implemented MLOps pipelines reducing model deployment time by 60%
+
+Machine Learning Engineer - E-Commerce Giant (2019-2021)
+- Built recommendation engines increasing user engagement by 25%
+- Optimized deep learning models for low-latency mobile deployment
+- Created A/B testing framework for ML model performance tracking
+
+Data Scientist - FinTech Startup (2018-2019)
+- Developed fraud detection algorithms reducing false positives by 40%
+- Implemented NLP systems for customer support automation
+- Built real-time data pipelines processing 1TB+ daily
+
+SKILLS:
+Python, TensorFlow, PyTorch, Computer Vision, Deep Learning, MLOps, 
+Kubernetes, Docker, AWS, GCP, SQL, Spark, Kafka, CI/CD, Git
+
+EDUCATION:
+MTech Artificial Intelligence - IIT Delhi
+BTech Computer Science - BITS Pilani
+
+CERTIFICATIONS:
+- AWS Certified Machine Learning Specialist
+- Google Cloud Professional Data Engineer
+- Kubernetes Application Developer (CKAD)
